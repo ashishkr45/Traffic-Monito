@@ -113,4 +113,4 @@ Contributions are welcome! Feel free to fork the project and submit a pull reque
 
 ---
 
-🚀 Developed with ❤️ by [Ashish]
+🚀 Developed with ❤️ by Ashish
